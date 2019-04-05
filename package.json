@@ -1,0 +1,24 @@
+{
+  "name": "cssa_yearbook",
+  "version": "1.0.0",
+  "description": "cssa_yearbook_hosted_on_gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "node deploy.js && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timeswind/cssa_yearbook.git"
+  },
+  "keywords": [
+    "cssa",
+    "psu",
+    "yearbook"
+  ],
+  "author": "Mingtian Yang, Penn State CSSA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timeswind/cssa_yearbook/issues"
+  },
+  "homepage": "https://github.com/timeswind/cssa_yearbook#readme"
+}
