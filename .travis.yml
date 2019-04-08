@@ -1,0 +1,25 @@
+language: node_js
+node_js:
+- 11.12.0
+
+git:
+  depth: false
+
+branches:
+  only:
+  - /.*/
+  
+before_deploy:
+- sh ./git-pull-all.sh
+
+deploy:
+  provider: s3
+  cache_control: max-age=86400
+  access_key_id: AKIAUF56MZK2KSLVJZW4
+  secret_access_key:
+    secure: M58DunBZQcUQGT43aKqRh4OExfaiZxFG5gMw1NjpZUNkzWMjA5RIavW+Z9FlBiw49u4WCkikdHTiFi4CaIy2mKi1Tg8d0kPk7MF0ygtyi1UOdcZqeswA4Kip4AKcRgzVU6ozkvOqN8YGEI97X4MToWihu20MtsgkAf8WDB5rVfwc2sNss7B4vWjckeLTONyazZvK4oD1umv6mSJrk/BbauL5IiRsVmBEOEHFvCJuCiuwLCnqgbfhp3n+TMoDcy4+P9zSHso4LgNST9jILIDKmHoNP+oZKmwXM5eEyncTu5z2cETtrvFEcsrjANDvtLqGtfv8EAhbMQRkDLCWiAjcHOxp6q5xgNS44/nQRjL4h558W5CXOCggmW/3xVugAsVbxfj8RlAJMYcJnEtD2H9FlHVfEzC3qlIIW0BH09S2/74xX1h1DinJyIT6K1srNvL+3rE/Inl1gFlDCFYqsMGIWrYw3H7HRNFvxwYi0nXsb+kk1aV1Ho/4pa9slpklgJY/5GEzsN7AXTHi8VP5QK520I7EgdEz6SKNo1G8n60L9Qoa5g3DFvM0fHWBBh1Y/5N/xJC1MAdcYuus0yNykRvX8BIUbD8cjnM3KFxv+DR1b4S5YF+bRY1dXR3sMP2bm73EOqQHsZcLjC8ZouPSXHqv7SdhwVvhBkjdRnbDCEnO4cI=
+  bucket: psucssa-xssc
+  skip_cleanup: true
+  upload-dir: books/yearbook
+  on:
+    all_branches: true
