@@ -11,6 +11,7 @@ branches:
   
 before_deploy:
 - sh ./git-pull-all.sh
+
 deploy:
   provider: s3
   cache_control: max-age=86400
@@ -20,3 +21,5 @@ deploy:
   bucket: psucssa-xssc
   skip_cleanup: true
   upload-dir: books/yearbook
+  on:
+    all_branches: true
