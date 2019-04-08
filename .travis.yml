@@ -3,6 +3,7 @@ node_js:
 - "11.12.0"
 
 before_deploy:
+- sh ./git-pull-all.sh
 - rm -r ./node_modules
 
 deploy:
