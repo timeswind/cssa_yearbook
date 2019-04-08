@@ -4,7 +4,7 @@ node_js:
 
 before_deploy:
 - sh ./git-pull-all.sh
-- rm -r ./node_modules
+# - rm -r ./node_modules
 
 deploy:
   provider: s3
