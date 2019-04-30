@@ -18,15 +18,26 @@
 
 ![](.gitbook/assets/image.png)
 
-## **于洋Vivian**
+## **于洋 Vivian**
 
 在CSSA THON部呆了快一年的时间啦，真的很荣幸可以大一就加入到CSSA的大家庭Thon部真的是非常chill的一个部门 大家都很有爱 彼此都互相帮助和配合 为了帮助癌症儿童我们都竭尽全力 希望在新的一年里 CSSA能够越来越好 为更多中华学子带来福利 Thon部能筹款到更多的钱。
 
 ![](.gitbook/assets/image%20%283%29.png)
 
-## **康玥童Renee**
+## **康玥童 Renee**
 
 加入CSSA BENEFITTING THON整整一年了，认识了很多朋友也学到了很多新东西。感谢CSSA让我找到了更多的中国朋友也感谢CSSA BENEFITTING THON让我得以给更多的华人推广更赞的THON精神。希望新的一年能更好的为CSSA 服务，让更多的华人加入到CSSA的大家庭中。
 
 ![](.gitbook/assets/image%20%284%29.png)
+
+
+
+| 朱益广 | Thon Chair | 09/26/1996 | Envse |
+| :--- | :--- | :--- | :--- |
+| 王翌玮 | Thon Chair | 07/27/1997 | 景观建筑和视觉艺术 |
+| 杨雅超 | 部员 | 06/02/1998 | Hospitality Mangement And Costume |
+| 包若涵 | 部员 | 06/19/1996 | IE |
+| 白睿 | 部员 | 9/11/1997 | Accounting |
+| Renee Kang | 部员 | 10/26/1998 | DUS |
+| 于洋 | 部员 | 2/21/2000 | DUS |
 

@@ -2,33 +2,46 @@
 
 ## 王荣仕
 
-微信啊 Rongshi\_Wang ➕我聊天处朋友嘿嘿
-
-![](.gitbook/assets/7b3db1b7-b22d-40ae-885b-7b0c6dd428a8-web-team-cssa.jpg)
-
-真心感恩CSSA的每一位家人。最后，网络部牛逼！
+## 徐静怡
 
 ## 王翰明
 
-work.hanming.wang@gmail.com
+## 杨麒宇
 
-![](.gitbook/assets/zheng-jian-zhao-yuan-shi-wanghanming.jpg)
+## 任怡源
 
-null
+## 柴嘉铭
 
-## 叶子
+## 李佳宜
 
-微信：ClaireY0412
-
-![](.gitbook/assets/02b7da84-7281-4c6b-9dfd-c6d52d4be778-zoey-ye.jpg)
-
-从网络部里学到很多东西，也认识了很多可爱的人。相聚就是缘.jpg
+## 方政翰
 
 ## 张静晨
 
-WechatID:Vinsel952
+## 叶子
 
-![](.gitbook/assets/94c57715-a295-4f23-bf31-3ab0549d8cfd-jingchen-zhang.jpg)
+## 周寻怡
 
-CSSA让我快乐
+## 罗元珩
+
+## 秦楚辞
+
+
+
+
+
+| 王荣仕 | 部长 | 1996-06-20 | 计算机科学 |
+| :--- | :--- | :--- | :--- |
+| 徐静怡 | 副部长 | 1997-04-06 | 供应链管理 |
+| 王翰明 | 部员 | 1999-03-18 | Pre-Engineering |
+| 杨麒宇 | 部员 | 1996-12-29 | EE |
+| 任怡源 | 部员 | 1996-10-17 | CS |
+| 柴嘉铭 | 部员 | 1997-03-03 | CMPSC |
+| 李佳宜 | 部员 | 1997-08-24 | MGMT/IB |
+| 方政翰 | 部员 | 1997-10-19 | N/A |
+| 张静晨 | 部员 | 1998-09-07 | IST & DS |
+| 叶子 | 部员 | 2000-04-12 | DS |
+| 周寻怡 | 部员 | 1999-01-21 | CS |
+| 罗元珩 | 部员 | 1997-12-02 | EE |
+| 秦楚辞 | 部员 | 1998-12-02 | CS |
 
