@@ -2,9 +2,25 @@
 
 ## 罗添畅
 
+微信：luotianchang27
+
+"我一个从来不熬夜的人自从进了CSSA睡的一天比一天晚 这句话说出来还以为CSSA是个什么比996还可怕的组织. 除了赶作业 熬的这些夜里很多都和CSSA有关 不管是部门里热火朝天的吃瓜，对着电脑屏两眼发黑的肝宣传材料 还是目睹各位酒后表演艺术家的精彩演出 在CSSA的这两年 我好像不怎么值得一提的平凡大学生活有了一些可以讲的故事和回忆.
+
+去年年鉴资料看前辈留言 很多人都说一句祝CSSA越来越好 当时看觉得这句话很普通很平淡 但是现在我也很想真情实感的说这句越来越好. 在CSSA的两年 不知道是我和这个组织一起成长和进步 还是它让我成长的更多. 总之很感谢CSSA充实我两年的大学生活 也让我认识很多优秀可爱的人. 希望CSSA这个平台能鼓励更多人去做自己热爱的事情.
+
+祝CSSA越来越好. "
+
 ## 范秋晨
 
+wechat：423350037
+
+从大一下学期加入到cssa到现在已经有了满打满算两年的时间了，从宣传组到宣传部，遇见的每一个优秀的朋友都是这段时光里最好的礼物。希望藏龙卧虎的宣传可以继续自由洒脱的不睡觉的传统，作为cssa最亮眼的存在。
+
 ## 张睿泽
+
+微信：495878557
+
+感谢CSSA，大家加油，越来越好
 
 ## 杨铭添
 
@@ -32,18 +48,17 @@
 
 
 
-| 罗添畅 | 部长 | 11/27/1997 | Information Science and Technology |
-| :--- | :--- | :--- | :--- |
-| 范秋晨 | 副部长 | 11/16/1997 | Hospitality Management |
-| 张睿泽 | 宣传总监 | 12/24/1996 | Computer Scinece |
-| 杨铭添 | 部员 | 07/18/1998 | Computer Scinece |
-| 童识宇 | 部员 | 6/18/1995 | Architecture |
-| 许蔚伦 | 部员 | 09/17/1997 | Computer Scinece/Economics |
-| 王雨凡 | 部员 | 2/28/1997 | Mechanical Engineering |
-| 蔡黄思桐 | 部员 | 11/07/1997 | Mechanical Engineering |
-| 刘嘉上 | 部员 | 03/30/1997 | Landscape Architecture |
-| 刘禹杭 | 部员 | 12/17/1997 | Film and Video |
-| 张宇涵 | 部员 | 06/29/1998 | New Media |
-| 朱秋霖 | 部员 | 08/14/1998 | Finance |
-| 吴思灿 | 部员 | 08/29/2000 | Broadcasting Jounalism |
-
+| 罗添畅  | 部长   | 11/27/1997 | Information Science and Technology |
+| ---- | ---- | ---------- | ---------------------------------- |
+| 范秋晨  | 副部长  | 11/16/1997 | Hospitality Management             |
+| 张睿泽  | 宣传总监 | 12/24/1996 | Computer Scinece                   |
+| 杨铭添  | 部员   | 07/18/1998 | Computer Scinece                   |
+| 童识宇  | 部员   | 6/18/1995  | Architecture                       |
+| 许蔚伦  | 部员   | 09/17/1997 | Computer Scinece/Economics         |
+| 王雨凡  | 部员   | 2/28/1997  | Mechanical Engineering             |
+| 蔡黄思桐 | 部员   | 11/07/1997 | Mechanical Engineering             |
+| 刘嘉上  | 部员   | 03/30/1997 | Landscape Architecture             |
+| 刘禹杭  | 部员   | 12/17/1997 | Film and Video                     |
+| 张宇涵  | 部员   | 06/29/1998 | New Media                          |
+| 朱秋霖  | 部员   | 08/14/1998 | Finance                            |
+| 吴思灿  | 部员   | 08/29/2000 | Broadcasting Jounalism             |
